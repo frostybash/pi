@@ -14,7 +14,7 @@ Update operating system.
 sudo apt-get update
 sudo apt-get upgrade
 
-Copy All files to Pi Desktop.
+Copy All files to Pi Desktop. git clone in home directory
 libData.so, libCommon.so, Pr3.out, libSettings.so, layout2.glade, NewUSMeter.sh, usmsetup.sh, PrxStart.sh,  launch_pr3.desktop, master.zip
 Install Necessary Libraries.
 All libraries can be installed by executing usmsetup.sh.
